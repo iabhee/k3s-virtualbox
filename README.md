@@ -1,6 +1,6 @@
-# K3s Cluster Setup with Vagrant and Ansible
+# K3s Cluster Setup with Vagrant
 
-This repository contains Infrastructure as Code (IaC) for setting up a K3s Kubernetes cluster using Vagrant and Ansible. The setup includes one master node and two worker nodes running on VirtualBox VMs.
+This repository contains Infrastructure as Code (IaC) for setting up a K3s Kubernetes cluster using Vagrant and Shell script. The setup includes one master node and two worker nodes running on VirtualBox VMs.
 
 ## Architecture
 
